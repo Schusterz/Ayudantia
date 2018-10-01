@@ -64,16 +64,4 @@ public class MetodosTest {
         
     }
     
-   
-   
-    
-            
-    
-
-    /**
-     * Test of generarTablero method, of class Metodos.
-     */
-
-
-    
 }
